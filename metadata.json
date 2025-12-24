@@ -1,0 +1,7 @@
+{
+  "name": "Everyone's library",
+  "description": "ระบบจัดการห้องสมุดครบวงจร มีทั้งระบบยืม-คืน สมาชิก คลังหนังสือ และระบบวิเคราะห์หนังสือด้วย AI โดย Gemini",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
